@@ -1,5 +1,3 @@
-![](https://travis-ci.org/pr-techblog/pr-techblog.svg?branch=master)
-
 <div dir="rtl">
   
 ## به صفحه درس تدارک دیده شده برای درس تحلیل داده‌های تابعی خوش آمدید 
