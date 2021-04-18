@@ -1,7 +1,9 @@
   
   
 # Functional Data Analysis
-#### Mathematic departments, Persian Gulf University
+## By: Dr H. Haghbin and  Dr. F. Takhteh
+### April 2021
+#### Mathematics departments, Persian Gulf University
  
 [Web Page](https://haghbinh.github.io/FDA/) 
 
