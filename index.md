@@ -4,7 +4,7 @@
   
 ## به صفحه درس تدارک دیده شده برای درس تحلیل داده‌های تابعی خوش آمدید 
 
-[Website](https://haghbinh.github.io/FDA/) 
+[آدرس صفحه وب](https://haghbinh.github.io/FDA/) 
 
 ---
 
