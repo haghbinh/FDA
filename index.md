@@ -1,6 +1,12 @@
+![](https://travis-ci.org/pr-techblog/pr-techblog.svg?branch=master)
+
+<div dir="rtl">
+  
 ## به صفحه درس تدارک دیده شده برای درس تحلیل داده‌های تابعی خوش آمدید 
 
 [Website](https://haghbinh.github.io/FDA/) 
+
+---
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
