@@ -16,5 +16,7 @@
 
 - [Basis Functions](https://nbviewer.jupyter.org/github/haghbinh/FDA/blob/gh-pages/basis_functions.ipynb) 
 
+- [The FDataGrid class](https://github.com/haghbinh/FDA/blob/gh-pages/The%20FDataGrid%20class.ipynb) 
 
+- [Representation of functional data](https://github.com/haghbinh/FDA/blob/gh-pages/Representation%20of%20functional%20data.ipynb) 
 ---
