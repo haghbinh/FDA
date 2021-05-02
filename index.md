@@ -22,5 +22,4 @@
 
 - [Temperatures in Montreal](https://nbviewer.jupyter.org/github/haghbinh/FDA/blob/gh-pages/Montreal_temp.ipynb) 
 
-
 ---
